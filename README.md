@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FernandoBuck
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning PHP, SOLID etc related
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning PHP,TypeScript lenaguages and SOLID, Clean Arch and so on...
+- 💞️ I’m currently colaboranting in KaBuM!
 - 📫 How to reach me buck.s@hotmail.com
 
 <!---
